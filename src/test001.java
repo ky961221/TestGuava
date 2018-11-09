@@ -3,5 +3,7 @@ public class test001 {
 
         System.out.println("hhh");
 
+        System.out.println("qqq");
+
     }
 }
